@@ -1,0 +1,69 @@
+[30-Nov-2023 14:15:42 UTC] PHP Parse error:  syntax error, unexpected token "}", expecting "," or ";" in /Users/J/Local Sites/pages-and-waves/app/public/wp-content/themes/pages-and-waves-theme/index.php on line 4
+[30-Nov-2023 14:15:45 UTC] PHP Parse error:  syntax error, unexpected token "}", expecting "," or ";" in /Users/J/Local Sites/pages-and-waves/app/public/wp-content/themes/pages-and-waves-theme/index.php on line 4
+[30-Nov-2023 14:24:31 UTC] PHP Parse error:  syntax error, unexpected token "}", expecting "," or ";" in /Users/J/Local Sites/pages-and-waves/app/public/wp-content/themes/pages-and-waves-theme/index.php on line 4
+[30-Nov-2023 14:25:40 UTC] PHP Parse error:  syntax error, unexpected token "}", expecting "," or ";" in /Users/J/Local Sites/pages-and-waves/app/public/wp-content/themes/pages-and-waves-theme/index.php on line 4
+[30-Nov-2023 14:26:16 UTC] PHP Parse error:  syntax error, unexpected token "}", expecting "," or ";" in /Users/J/Local Sites/pages-and-waves/app/public/wp-content/themes/pages-and-waves-theme/index.php on line 4
+[30-Nov-2023 14:31:02 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function greet(), 1 passed in /Users/J/Local Sites/pages-and-waves/app/public/wp-content/themes/pages-and-waves-theme/index.php on line 6 and exactly 2 expected in /Users/J/Local Sites/pages-and-waves/app/public/wp-content/themes/pages-and-waves-theme/index.php:2
+Stack trace:
+#0 /Users/J/Local Sites/pages-and-waves/app/public/wp-content/themes/pages-and-waves-theme/index.php(6): greet('Jon')
+#1 /Users/J/Local Sites/pages-and-waves/app/public/wp-includes/template-loader.php(106): include('/Users/J/Local ...')
+#2 /Users/J/Local Sites/pages-and-waves/app/public/wp-blog-header.php(19): require_once('/Users/J/Local ...')
+#3 /Users/J/Local Sites/pages-and-waves/app/public/index.php(17): require('/Users/J/Local ...')
+#4 {main}
+  thrown in /Users/J/Local Sites/pages-and-waves/app/public/wp-content/themes/pages-and-waves-theme/index.php on line 2
+[30-Nov-2023 14:48:50 UTC] PHP Parse error:  syntax error, unexpected token ";" in /Users/J/Local Sites/pages-and-waves/app/public/wp-content/themes/pages-and-waves-theme/index.php on line 9
+[30-Nov-2023 14:48:57 UTC] PHP Parse error:  syntax error, unexpected token ";" in /Users/J/Local Sites/pages-and-waves/app/public/wp-content/themes/pages-and-waves-theme/index.php on line 9
+[30-Nov-2023 14:49:05 UTC] PHP Parse error:  syntax error, unexpected token "*" in /Users/J/Local Sites/pages-and-waves/app/public/wp-content/themes/pages-and-waves-theme/index.php on line 9
+[30-Nov-2023 14:49:14 UTC] PHP Parse error:  syntax error, unexpected token ";" in /Users/J/Local Sites/pages-and-waves/app/public/wp-content/themes/pages-and-waves-theme/index.php on line 9
+[30-Nov-2023 14:49:29 UTC] PHP Parse error:  syntax error, unexpected token "}" in /Users/J/Local Sites/pages-and-waves/app/public/wp-content/themes/pages-and-waves-theme/index.php on line 10
+[30-Nov-2023 14:51:14 UTC] PHP Parse error:  syntax error, unexpected token ")" in /Users/J/Local Sites/pages-and-waves/app/public/wp-content/themes/pages-and-waves-theme/index.php on line 7
+[30-Nov-2023 14:51:29 UTC] PHP Parse error:  syntax error, unexpected token ")" in /Users/J/Local Sites/pages-and-waves/app/public/wp-content/themes/pages-and-waves-theme/index.php on line 7
+[30-Nov-2023 19:31:20 UTC] PHP Parse error:  syntax error, unexpected token ">" in /Users/J/Local Sites/pages-and-waves/app/public/wp-content/themes/pages-and-waves-theme/index.php on line 23
+[04-Dec-2023 07:32:57 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /Users/J/Local Sites/pages-and-waves/app/public/wp-includes/update.php on line 211
+[04-Dec-2023 07:32:57 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /Users/J/Local Sites/pages-and-waves/app/public/wp-includes/update.php on line 449
+[04-Dec-2023 07:32:57 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /Users/J/Local Sites/pages-and-waves/app/public/wp-includes/update.php on line 730
+[06-Dec-2023 01:03:27 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /Users/J/Local Sites/pages-and-waves/app/public/wp-includes/update.php on line 211
+[09-Dec-2023 20:14:01 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /Users/J/Local Sites/pages-and-waves/app/public/wp-includes/update.php on line 730
+[04-Mar-2024 18:04:20 UTC] PHP Parse error:  syntax error, unexpected identifier "wp_enqueue_style" in /Users/J/Local Sites/pages-and-waves/app/public/wp-content/themes/pages-and-waves-theme/functions.php on line 5
+[04-Mar-2024 18:04:20 UTC] PHP Parse error:  syntax error, unexpected identifier "wp_enqueue_style" in /Users/J/Local Sites/pages-and-waves/app/public/wp-content/themes/pages-and-waves-theme/functions.php on line 5
+[04-Mar-2024 18:05:51 UTC] PHP Parse error:  syntax error, unexpected identifier "wp_enqueue_style" in /Users/J/Local Sites/pages-and-waves/app/public/wp-content/themes/pages-and-waves-theme/functions.php on line 5
+[04-Mar-2024 18:05:51 UTC] PHP Parse error:  syntax error, unexpected identifier "wp_enqueue_style" in /Users/J/Local Sites/pages-and-waves/app/public/wp-content/themes/pages-and-waves-theme/functions.php on line 5
+[04-Mar-2024 18:05:52 UTC] PHP Parse error:  syntax error, unexpected identifier "wp_enqueue_style" in /Users/J/Local Sites/pages-and-waves/app/public/wp-content/themes/pages-and-waves-theme/functions.php on line 5
+[04-Mar-2024 21:26:42 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "university_files" not found or invalid function name in /Users/J/Local Sites/pages-and-waves/app/public/wp-includes/class-wp-hook.php:324
+Stack trace:
+#0 /Users/J/Local Sites/pages-and-waves/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#1 /Users/J/Local Sites/pages-and-waves/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#2 /Users/J/Local Sites/pages-and-waves/app/public/wp-includes/script-loader.php(2262): do_action('wp_enqueue_scri...')
+#3 /Users/J/Local Sites/pages-and-waves/app/public/wp-includes/class-wp-hook.php(324): wp_enqueue_scripts('')
+#4 /Users/J/Local Sites/pages-and-waves/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#5 /Users/J/Local Sites/pages-and-waves/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#6 /Users/J/Local Sites/pages-and-waves/app/public/wp-includes/general-template.php(3052): do_action('wp_head')
+#7 /Users/J/Local Sites/pages-and-waves/app/public/wp-content/themes/pages-and-waves-theme/header.php(8): wp_head()
+#8 /Users/J/Local Sites/pages-and-waves/app/public/wp-includes/template.php(790): require_once('/Users/J/Local ...')
+#9 /Users/J/Local Sites/pages-and-waves/app/public/wp-includes/template.php(725): load_template('/Users/J/Local ...', true, Array)
+#10 /Users/J/Local Sites/pages-and-waves/app/public/wp-includes/general-template.php(48): locate_template(Array, true, true, Array)
+#11 /Users/J/Local Sites/pages-and-waves/app/public/wp-content/themes/pages-and-waves-theme/index.php(1): get_header()
+#12 /Users/J/Local Sites/pages-and-waves/app/public/wp-includes/template-loader.php(106): include('/Users/J/Local ...')
+#13 /Users/J/Local Sites/pages-and-waves/app/public/wp-blog-header.php(19): require_once('/Users/J/Local ...')
+#14 /Users/J/Local Sites/pages-and-waves/app/public/index.php(17): require('/Users/J/Local ...')
+#15 {main}
+  thrown in /Users/J/Local Sites/pages-and-waves/app/public/wp-includes/class-wp-hook.php on line 324
+[04-Mar-2024 21:26:45 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "university_files" not found or invalid function name in /Users/J/Local Sites/pages-and-waves/app/public/wp-includes/class-wp-hook.php:324
+Stack trace:
+#0 /Users/J/Local Sites/pages-and-waves/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#1 /Users/J/Local Sites/pages-and-waves/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#2 /Users/J/Local Sites/pages-and-waves/app/public/wp-includes/script-loader.php(2262): do_action('wp_enqueue_scri...')
+#3 /Users/J/Local Sites/pages-and-waves/app/public/wp-includes/class-wp-hook.php(324): wp_enqueue_scripts('')
+#4 /Users/J/Local Sites/pages-and-waves/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#5 /Users/J/Local Sites/pages-and-waves/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#6 /Users/J/Local Sites/pages-and-waves/app/public/wp-includes/general-template.php(3052): do_action('wp_head')
+#7 /Users/J/Local Sites/pages-and-waves/app/public/wp-content/themes/pages-and-waves-theme/header.php(8): wp_head()
+#8 /Users/J/Local Sites/pages-and-waves/app/public/wp-includes/template.php(790): require_once('/Users/J/Local ...')
+#9 /Users/J/Local Sites/pages-and-waves/app/public/wp-includes/template.php(725): load_template('/Users/J/Local ...', true, Array)
+#10 /Users/J/Local Sites/pages-and-waves/app/public/wp-includes/general-template.php(48): locate_template(Array, true, true, Array)
+#11 /Users/J/Local Sites/pages-and-waves/app/public/wp-content/themes/pages-and-waves-theme/index.php(1): get_header()
+#12 /Users/J/Local Sites/pages-and-waves/app/public/wp-includes/template-loader.php(106): include('/Users/J/Local ...')
+#13 /Users/J/Local Sites/pages-and-waves/app/public/wp-blog-header.php(19): require_once('/Users/J/Local ...')
+#14 /Users/J/Local Sites/pages-and-waves/app/public/index.php(17): require('/Users/J/Local ...')
+#15 {main}
+  thrown in /Users/J/Local Sites/pages-and-waves/app/public/wp-includes/class-wp-hook.php on line 324

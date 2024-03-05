@@ -1,0 +1,1 @@
+2024/03/05 12:02:34 [error] 24616#0: *3391 directory index of "/Users/J/Local Sites/pages-and-waves/app/public/" is forbidden, client: 127.0.0.1, server: , request: "GET / HTTP/1.0", host: "pages-and-waves.local"
